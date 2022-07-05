@@ -1,0 +1,25 @@
+body{
+    font-family: 'Caveat', cursive;
+}
+
+.note{
+    color: black;
+    font-size: 25px;
+}
+.heading{
+    font-size: 35px;
+    box-shadow: 10px 10px 35px peachpuff;
+    color: white;
+    width: 99%;
+    height: 100px;
+}
+#copy_right_footer{
+    background: rgb(128,128,128);
+background: linear-gradient(0deg, rgba(128,128,128,1) 42%, rgba(255,229,180,1) 96%);
+    width: 98%;
+    line-height: 3;    
+    bottom: 0;
+    text-align: center;
+    color: white;
+    
+}
